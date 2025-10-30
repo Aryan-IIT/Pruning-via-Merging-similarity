@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pruning-via-Merging-Compressing-LLMs-via-Manifold-Alignment-Based-Layer-Merging
 
 ## Overview
@@ -112,3 +113,6 @@ EMNLP2024/
                         ├── config.json
                         └── pytorch_model.bin
 ```
+=======
+# Pruning-via-Merging-similarity
+>>>>>>> 5e920328590917fd835478d56516997421f14c4c
