@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Pruning-via-Merging-Compressing-LLMs-via-Manifold-Alignment-Based-Layer-Merging
 
 ## Overview
